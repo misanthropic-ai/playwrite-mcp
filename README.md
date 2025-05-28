@@ -1,5 +1,6 @@
 # playwright-mcp
 
+[![smithery badge](https://smithery.ai/badge/@misanthropic-ai/playwrite-mcp)](https://smithery.ai/server/@misanthropic-ai/playwrite-mcp)
 Playwright wrapper for MCP (Model Context Protocol). This server enables LLM-powered clients to control a browser for automation tasks.
 
 ## Components
@@ -88,6 +89,14 @@ On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
   }
   ```
 </details>
+
+### Installing via Smithery
+
+To install Playwright Browser Automation Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@misanthropic-ai/playwrite-mcp):
+
+```bash
+npx -y @smithery/cli install @misanthropic-ai/playwrite-mcp --client claude
+```
 
 ## Development
 
