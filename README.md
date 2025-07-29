@@ -2,6 +2,10 @@
 
 Playwright wrapper for MCP (Model Context Protocol). This server enables LLM-powered clients to control a browser for automation tasks.
 
+<a href="https://glama.ai/mcp/servers/@misanthropic-ai/playwrite-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@misanthropic-ai/playwrite-mcp/badge" alt="Playwright MCP server" />
+</a>
+
 ## Components
 
 ### Resources
